@@ -11,6 +11,8 @@ Este es mi primer proyecto simple utilizando etiquetas HTML5. El proyecto incluy
 - **Audio/**: Carpeta que contiene archivos de audio utilizados en el proyecto.
 - **video/**: Carpeta que contiene archivos de video utilizados en el proyecto.
 
+## Link del Proyecto: https://juancitopena.github.io/ProyectoSimpleConEtiquetasHTML5/
+
 ## Captura de Pantalla:
 
 ![image](primera_web_git.jpg)
