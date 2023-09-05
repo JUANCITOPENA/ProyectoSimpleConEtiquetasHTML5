@@ -11,6 +11,11 @@ Este es mi primer proyecto simple utilizando etiquetas HTML5. El proyecto incluy
 - **Audio/**: Carpeta que contiene archivos de audio utilizados en el proyecto.
 - **video/**: Carpeta que contiene archivos de video utilizados en el proyecto.
 
+## Captura de Pantalla:
+
+![primera_web.pn](primera_web.pn)
+
+
 ## Cómo Usar
 
 Simplemente clona este repositorio o descarga los archivos y ábrelos en tu navegador web favorito. Puedes navegar entre las páginas utilizando los enlaces proporcionados.
