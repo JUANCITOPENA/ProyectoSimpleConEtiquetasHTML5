@@ -13,7 +13,7 @@ Este es mi primer proyecto simple utilizando etiquetas HTML5. El proyecto incluy
 
 ## Captura de Pantalla:
 
-![image](primera_web.png)
+![image](primera_web_git.jpg)
 
 ## Cómo Usar
 
