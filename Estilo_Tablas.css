@@ -1,0 +1,48 @@
+/* FORMATO CSS NORMAL PARA TABLAS*/
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+  }
+
+  th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+
+  img {
+    max-width: 50px;
+    height: auto;
+  }
+
+
+  /* FORMATO CSS CON CLASES PARA TABLAS*/
+
+  /*
+  .table-container {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+  }
+
+  .table-container th, .table-container td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+
+  .table-container img {
+    max-width: 50px;
+    height: auto;
+  }
+
+  .table-caption {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .table-heading {
+    font-weight: bold;
+  }
+
+  */
